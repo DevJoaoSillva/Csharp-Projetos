@@ -1,0 +1,7 @@
+D:\Dio\DesadioHospedagemHotel\obj\Debug\DesadioHospedagemHotel.csproj.AssemblyReference.cache
+D:\Dio\DesadioHospedagemHotel\obj\Debug\DesadioHospedagemHotel.csproj.CoreCompileInputs.cache
+D:\Dio\DesadioHospedagemHotel\bin\Debug\DesadioHospedagemHotel.exe.config
+D:\Dio\DesadioHospedagemHotel\bin\Debug\DesadioHospedagemHotel.exe
+D:\Dio\DesadioHospedagemHotel\bin\Debug\DesadioHospedagemHotel.pdb
+D:\Dio\DesadioHospedagemHotel\obj\Debug\DesadioHospedagemHotel.exe
+D:\Dio\DesadioHospedagemHotel\obj\Debug\DesadioHospedagemHotel.pdb
